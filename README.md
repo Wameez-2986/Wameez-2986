@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend,Python,C,Java**
 
-- 📫 How to reach me **www.linkedin.com/in/syed-wameez-ahmed**
+- 📫 How to reach me **wameezahmed5@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/syed-wameez-ahmed
 
