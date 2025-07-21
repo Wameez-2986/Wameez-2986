@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Wameez Ahmed</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" alt="Coding" width="300" src="https://dribbble.com/shots/24862807-Programmer-Lottie-JSON-animation?utm_source=Clipboard_Shot&utm_campaign=weblodge&utm_content=Programmer%20Lottie%20JSON%20animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=weblodge&utm_content=Programmer%20Lottie%20JSON%20animation&utm_medium=Social_Share">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wameez-2986&label=Profile%20views&color=0e75b6&style=flat" alt="wameez-2986" /> </p>
 
