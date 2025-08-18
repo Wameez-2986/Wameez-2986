@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **wameezahmed5@gmail.com**
 
-- 📄 All of My Projects are available at <a href ="wameez-personal-portfolio.vercel.app">Portfolio</a>
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
