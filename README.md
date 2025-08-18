@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wameezahmed5@gmail.com**
 
-- 📄 Know about my experiences www.linkedin.com/in/syed-wameez-ahmed
+- 📄 All of My Projects are available at 
 
 - ⚡ Fun fact **I think I am funny**
 
