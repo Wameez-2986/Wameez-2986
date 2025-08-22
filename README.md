@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full stack,Python,C,Java**
 
-- 👨‍💻 All of my projects are available at [https://mohdyaser.vercel.app/](https://mohdyaser.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://wameez-personal-portfolio.vercel.app/](https://wameez-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me **wameezahmed5@gmail.com**
 
