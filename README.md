@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Full stack,Python,C,Java**
 
-- 👨‍💻 All of my projects are available at [https://wameez-personal-portfolio.vercel.app/](https://wameez-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://syed-wameez-ahmed.vercel.app/](https://syed-wameez-ahmed.vercel.app/)
 
-- 📫 How to reach me **wameezahmed5@gmail.com**
+- 📫 How to reach me **syedwameez67gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -24,7 +24,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wameezahmed5@gmail.com)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/wameez-2986/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/wameezahmedsyed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wameez-personal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syed-wameez-ahmed.vercel.app/)
 
 ## 🛠️ Tech Stack
 
