@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Wameez Ahmed</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;React+Native+%7C+Next.js+%7C+React;Building+things+that+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Web+&+App+Developer;React+Native+%7C+Next.js+%7C+React;Building+things+that+ship)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wameez-2986&label=Profile%20views&color=0e75b6&style=flat" alt="wameez-2986" /> </p>
 
