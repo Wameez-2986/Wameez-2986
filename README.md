@@ -7,15 +7,19 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently exploring **Cybersecurity** concepts
+- 💻 **Full-Stack Developer focused on modern web and mobile applications**
 
-- 💬 Ask me about **Full stack,Python,C,Java**
+- 📱 **Building cross-platform apps using React Native**
+
+- 🤖 Passionate about **AI-powered products**
+
+- 🌱 Currently Building **Full-stack SaaS applications**
 
 - 👨‍💻 All of my projects are available at [https://syed-wameez-ahmed.vercel.app/](https://syed-wameez-ahmed.vercel.app/)
 
-- 📫 How to reach me **syedwameez67gmail.com**
+- 📫 How to reach me **@syedwameez67gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- 🎯 Goal: **Build products that solve real-world problems at scale**
 
 ## 📬 Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-wameez-ahmed)
