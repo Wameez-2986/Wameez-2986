@@ -66,5 +66,7 @@
 
 
 
-<h3 align="left">📊 GitHub Analytics</h3>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wameez-2986&theme=github-dark)
+<h2 align="left">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wameez-2986&theme=github-dark" />
+</p>
