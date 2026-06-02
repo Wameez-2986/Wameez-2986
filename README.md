@@ -68,5 +68,5 @@
 
 <h3 align="left">📊 GitHub Analytics</h3>
 <p align="start">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wameez-2986&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=FFFFFF" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wameez-2986&theme=dark" alt="GitHub Streak" />
 </p>
