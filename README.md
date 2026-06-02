@@ -67,6 +67,4 @@
 
 
 <h3 align="left">📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wameez-2986&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wameez-2986&theme=github-dark)
