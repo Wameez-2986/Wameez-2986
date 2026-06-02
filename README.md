@@ -72,3 +72,13 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+> ### "Great software isn't measured by lines of code, but by the problems it solves"
+>
+> **— Syed Wameez Ahmed**
+
+</div>
