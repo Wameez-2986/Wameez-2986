@@ -65,8 +65,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+<!-- Snake Game Repo View -->
 
-<h2 align="left">📊 GitHub Analytics</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wameez-2986&theme=github-dark" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
