@@ -68,14 +68,5 @@
 
 <h3 align="left">📊 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wameez-2986&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wameez-2986&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wameez-2986&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Wameez-2986&theme=tokyonight&hide_border=true" />
 </p>
