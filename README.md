@@ -73,6 +73,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Wameez-2986&theme=dark" alt="GitHub Streak" /></a>
+
 ## 💭 Developer Philosophy
 
 <div align="center">
