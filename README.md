@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Wameez Ahmed</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer</h3>
 
+<p align="left">
+  <a href="https://github.com/Wameez-2986">
+    <img src="https://komarev.com/ghpvc/?username=Wameez-2986&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
 - 💻 **Full-Stack Developer focused on modern web and mobile applications**
 
 - 📱 **Building cross-platform apps using React Native**
