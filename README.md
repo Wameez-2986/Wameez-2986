@@ -15,7 +15,7 @@
 
 - 🌱 Currently Building **Full-stack SaaS applications**
 
-- - 🚀 Founder of **[TRP Digitals](https://trpdigitals.com/)**
+-  🚀 Founder of **[TRP Digitals](https://trpdigitals.com/)**
 
 - 👨‍💻 All of my projects are available at [https://syed-wameez-ahmed.vercel.app/](https://syed-wameez-ahmed.vercel.app/)
 
